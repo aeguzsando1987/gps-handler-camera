@@ -1,0 +1,7 @@
+numpy
+pandas
+opencv-python
+pyrealsense2
+pyserial
+geopy
+pillow
